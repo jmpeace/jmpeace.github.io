@@ -7,6 +7,7 @@
 }
 
 .centeredBig > div {
+  flex: 0 0 200px;
   font-size: xx-large;
   color: aliceblue;
   font-family: 'Roboto';
