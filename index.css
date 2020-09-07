@@ -1,0 +1,15 @@
+.centeredBig {
+  display: flex;
+  height: 300px;
+  background-color: black;
+  justify-content: center;
+  align-items: center;
+}
+
+.centeredBig > div {
+  flex: 0 0 120px;
+  font-size: xx-large;
+  color: aliceblue;
+  font-family: 'Roboto';
+  margin: auto;
+}
